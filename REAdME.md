@@ -1,1 +1,1 @@
-#### Practicing Gittt
+#### Practicing Git
